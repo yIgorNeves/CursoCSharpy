@@ -11,3 +11,16 @@ C:\Users\Igor\source\repos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.Assem
 C:\Users\Igor\source\repos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
 C:\Users\Igor\source\repos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
 C:\Users\Igor\source\repos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache

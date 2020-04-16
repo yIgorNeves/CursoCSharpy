@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\Estoque\\Estoque\\Estoque.csproj",
+      "projectUniqueName": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\Estoque\\Estoque\\Estoque.csproj",
       "projectName": "Estoque",
-      "projectPath": "C:\\Users\\Igor\\source\\repos\\Estoque\\Estoque\\Estoque.csproj",
+      "projectPath": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\Estoque\\Estoque\\Estoque.csproj",
       "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor\\source\\repos\\Estoque\\Estoque\\obj\\",
+      "outputPath": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\Estoque\\Estoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
