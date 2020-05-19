@@ -1,0 +1,35 @@
+ cw tab = Console.WriteLine(x); // tem quebra de linha
+Console.Write(x);	       // nao tem quebra
+
+
+double x = 1,021289 
+Console.WriteLine(x.ToString("F2"));  // delimita numero de casa decimais, e imprime com virgula
+
+para imprimir com virgula no inicio do codigo coloca:
+using System.Globalization;
+Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture)); 
+
+
+placeholder:
+Console.WriteLine("{0} asds {1} abc {2} ashudiajsnd", a, b, c);
+
+interpoçação
+
+Console.WriteLine($"{a} asds {b} abc {2:F2} ashudiajsnd");
+
+Entrada de dados:
+Console.ReadLine();		//le em string  
+
+para pegar numeros
+
+tipo n1 = tipo.Parse(Console.ReadLine());
+
+
+
+x variavel nome = x variavel.MinValue; valor minimo e MaxValue = valor maximo
+
+
+variaveis de classe sao poteiros: y = x: y aponto para onde x aponta 
+variaveis de struct sao caixas: y = x: y recebe copia de x
+
+
