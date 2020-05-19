@@ -11,6 +11,12 @@ namespace Estoque
         public double Preco;
         public int Quant;
 
+        public Produto(string nome, double preco, int quant)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quant = quant;
+        }
 
         public double TotalEstoque()
         {
