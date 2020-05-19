@@ -1,0 +1,13 @@
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\bin\Debug\netcoreapp3.1\Products.exe
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\bin\Debug\netcoreapp3.1\Products.deps.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\bin\Debug\netcoreapp3.1\Products.runtimeconfig.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\bin\Debug\netcoreapp3.1\Products.runtimeconfig.dev.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\bin\Debug\netcoreapp3.1\Products.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\bin\Debug\netcoreapp3.1\Products.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\obj\Debug\netcoreapp3.1\Products.csprojAssemblyReference.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\obj\Debug\netcoreapp3.1\Products.csproj.CoreCompileInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfoInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfo.cs
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\obj\Debug\netcoreapp3.1\Products.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\obj\Debug\netcoreapp3.1\Products.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Products\Products\obj\Debug\netcoreapp3.1\Products.genruntimeconfig.cache
