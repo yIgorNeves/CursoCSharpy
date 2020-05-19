@@ -1,0 +1,13 @@
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\bin\Debug\netcoreapp3.1\WorkerContracts.exe
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\bin\Debug\netcoreapp3.1\WorkerContracts.deps.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\bin\Debug\netcoreapp3.1\WorkerContracts.runtimeconfig.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\bin\Debug\netcoreapp3.1\WorkerContracts.runtimeconfig.dev.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\bin\Debug\netcoreapp3.1\WorkerContracts.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\bin\Debug\netcoreapp3.1\WorkerContracts.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\obj\Debug\netcoreapp3.1\WorkerContracts.csprojAssemblyReference.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\obj\Debug\netcoreapp3.1\WorkerContracts.csproj.CoreCompileInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\obj\Debug\netcoreapp3.1\WorkerContracts.AssemblyInfoInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\obj\Debug\netcoreapp3.1\WorkerContracts.AssemblyInfo.cs
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\obj\Debug\netcoreapp3.1\WorkerContracts.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\obj\Debug\netcoreapp3.1\WorkerContracts.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\Worker\Worker\obj\Debug\netcoreapp3.1\WorkerContracts.genruntimeconfig.cache
