@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\bin\Debug\netcoreapp3.1\EmployeeEmails.exe
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\bin\Debug\netcoreapp3.1\EmployeeEmails.deps.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\bin\Debug\netcoreapp3.1\EmployeeEmails.runtimeconfig.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\bin\Debug\netcoreapp3.1\EmployeeEmails.runtimeconfig.dev.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\bin\Debug\netcoreapp3.1\EmployeeEmails.dll
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\bin\Debug\netcoreapp3.1\EmployeeEmails.pdb
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\obj\Debug\netcoreapp3.1\EmployeeEmails.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\obj\Debug\netcoreapp3.1\EmployeeEmails.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\obj\Debug\netcoreapp3.1\EmployeeEmails.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\obj\Debug\netcoreapp3.1\EmployeeEmails.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\obj\Debug\netcoreapp3.1\EmployeeEmails.dll
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\obj\Debug\netcoreapp3.1\EmployeeEmails.pdb
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\EmployeeEmails\EmployeeEmails\obj\Debug\netcoreapp3.1\EmployeeEmails.genruntimeconfig.cache
