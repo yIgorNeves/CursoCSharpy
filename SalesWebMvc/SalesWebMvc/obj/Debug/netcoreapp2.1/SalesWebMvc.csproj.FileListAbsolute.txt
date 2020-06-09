@@ -1,0 +1,16 @@
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorTargetAssemblyInfo.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache

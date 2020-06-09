@@ -32,4 +32,21 @@ x variavel nome = x variavel.MinValue; valor minimo e MaxValue = valor maximo
 variaveis de classe sao poteiros: y = x: y aponto para onde x aponta 
 variaveis de struct sao caixas: y = x: y recebe copia de x
 
+Upcasting:
+	-Casting da subclasse para superclasse
+	-Uso comum: polimorfismo
+Downcasting:
+	-Casting da superclasse para subclasse
+	-Palavra as
+	-Palavra is
+	-Uso comum: métodos que recebem parâmetros genéricos (ex: Equals)
+
+
+Inversão de controle: Padrão de desenvolvimento que consiste em retirar da classe a responsabilidade de instanciar suas dependências.
+Injeção de dependência: É uma forma de realizar a inversão de controle: um componente externo instancia a dependência, que é então injetada no 
+objeto "pai". Pode ser implementada de várias formas:
+	-Construtor
+	-Objeto de instanciação (builder / factory)
+	-Container / framework
+
 

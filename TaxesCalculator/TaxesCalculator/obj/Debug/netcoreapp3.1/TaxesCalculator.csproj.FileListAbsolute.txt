@@ -1,0 +1,13 @@
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.exe
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.deps.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.runtimeconfig.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.runtimeconfig.dev.json
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.csprojAssemblyReference.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.AssemblyInfoInputs.cache
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.AssemblyInfo.cs
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.dll
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.pdb
+C:\Users\Igor Neves\Documents\GitHub\CursoCSharpy\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.genruntimeconfig.cache
