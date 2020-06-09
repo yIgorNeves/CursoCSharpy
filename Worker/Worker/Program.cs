@@ -14,7 +14,7 @@ namespace WorkerContracts
             Console.WriteLine("Enter worker data:");
             Console.Write("Name: ");
             string name = Console.ReadLine();
-            Console.Write("Level (Junior/MidLevel/Senior)");
+            Console.Write("Level (Junior/MidLevel/Senior): ");
             WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
             Console.Write("Enter base salary: ");
             double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -46,8 +46,7 @@ namespace WorkerContracts
             int year = int.Parse(monthAndYear.Substring(3));
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Depatarment: " + worker.Depatarment.Name);
-            Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month));
-                
+            Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month).ToString("F2", CultureInfo.InvariantCulture));           
                 
                 
         }
