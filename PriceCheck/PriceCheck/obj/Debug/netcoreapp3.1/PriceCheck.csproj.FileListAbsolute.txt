@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\obj\Debug\netcoreapp3.1\PriceCheck.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\obj\Debug\netcoreapp3.1\PriceCheck.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\obj\Debug\netcoreapp3.1\PriceCheck.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\obj\Debug\netcoreapp3.1\PriceCheck.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\bin\Debug\netcoreapp3.1\PriceCheck.exe
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\bin\Debug\netcoreapp3.1\PriceCheck.deps.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\bin\Debug\netcoreapp3.1\PriceCheck.runtimeconfig.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\bin\Debug\netcoreapp3.1\PriceCheck.runtimeconfig.dev.json
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\bin\Debug\netcoreapp3.1\PriceCheck.dll
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\bin\Debug\netcoreapp3.1\PriceCheck.pdb
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\obj\Debug\netcoreapp3.1\PriceCheck.dll
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\obj\Debug\netcoreapp3.1\PriceCheck.pdb
+C:\Users\Igor\Documents\GitHub\CursoCSharpy\PriceCheck\PriceCheck\obj\Debug\netcoreapp3.1\PriceCheck.genruntimeconfig.cache
