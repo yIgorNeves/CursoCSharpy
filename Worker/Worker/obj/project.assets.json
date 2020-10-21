@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Igor Neves\\.nuget\\packages\\": {}
+    "C:\\Users\\Igor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\Worker\\Worker\\WorkerContracts.csproj",
+      "projectUniqueName": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\Worker\\Worker\\WorkerContracts.csproj",
       "projectName": "WorkerContracts",
-      "projectPath": "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\Worker\\Worker\\WorkerContracts.csproj",
-      "packagesPath": "C:\\Users\\Igor Neves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\Worker\\Worker\\obj\\",
+      "projectPath": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\Worker\\Worker\\WorkerContracts.csproj",
+      "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\Worker\\Worker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Igor Neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

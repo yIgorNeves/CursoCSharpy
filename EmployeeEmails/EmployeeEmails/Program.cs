@@ -32,8 +32,8 @@ namespace EmployeeEmails
             Console.Write("Enter salary: ");
             double sal = double.Parse(Console.ReadLine());
 
-            var emp = list.Where(p => p.Salary > sal).OrderBy(p => p.Email).Select(p => p.Email);
-            Console.WriteLine($"Email of people whose salary is more than {sal}");
+            var emp = list.Where(obj => obj.Salary > sal).OrderBy(obj => obj.Email).Select(obj => obj.Email);
+            Console.WriteLine($"Email of people whose salary is more than {sal.ToString("F2", CultureInfo.InvariantCulture)}:");
             foreach(string email in emp)
             {
                 Console.WriteLine(email);
@@ -41,7 +41,7 @@ namespace EmployeeEmails
 
             Console.WriteLine();
 
-            var sum = list.Where(p=> p.Name[0]=='M').Sum(p => p.Salary);
+            var sum = list.Where(obj => obj.Name[0]=='M').Sum(obj => obj.Salary);
             Console.Write("Sum of salary of people whose name starts with 'M' = "+ sum.ToString("F2", CultureInfo.InvariantCulture));
 
             Console.WriteLine();

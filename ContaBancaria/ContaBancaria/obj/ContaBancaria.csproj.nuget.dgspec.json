@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {}
+    "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {
+    "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
         "projectName": "ContaBancaria",
-        "projectPath": "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
-        "packagesPath": "C:\\Users\\Igor Neves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igor Neves\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\obj\\",
+        "projectPath": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\Documents\\GitHub\\CursoCSharpy\\ContaBancaria\\ContaBancaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Igor Neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
